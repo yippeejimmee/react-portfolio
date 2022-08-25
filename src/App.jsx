@@ -1,12 +1,10 @@
 import logo from './logo.svg';
 import './App.scss';
-import { Routes, Route } from 'react-router-dom'
+import PortfolioContainer from './components/portfoliocontainer';
 
 function App() {
   return (
-    <Routes>
-      <Route path="/"></Route>
-    </Routes>
+    <PortfolioContainer/>
   );
 }
 
