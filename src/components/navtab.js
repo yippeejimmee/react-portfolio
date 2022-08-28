@@ -1,4 +1,5 @@
 import React from 'react';
+import Resume from '../components/img/JTran.tech.resume.png'
 
 function Navtab({ currentPage, handlePageChange}) {
     return (
@@ -22,10 +23,9 @@ function Navtab({ currentPage, handlePageChange}) {
                 >Contact</a>
             </li>
             <li className='nav-item'>
-                <a href='#about'
-                onClick={() => handlePageChange('About')}
-                className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
-                >About</a>
+                <a href={Resume} target="_blank" rel='noreferrer noopener'
+                className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+                >Resume</a>
             </li>
         </ul>
     );

@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.scss';
-import PortfolioContainer from './components/portfoliocontainer';
+
+import './App.css';
+import {PortfolioContainer} from './components/portfoliocontainer';
 
 function App() {
   return (
+    <div >
     <PortfolioContainer/>
+    </div>
   );
 }
 
