@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yippeejimmee/react-portfolio/static/css/main.4cf06246.css",
+    "main.js": "/yippeejimmee/react-portfolio/static/js/main.e27623a4.js",
+    "static/media/movie.jpg": "/yippeejimmee/react-portfolio/static/media/movie.53818e6a4b2706937038.jpg",
+    "static/media/sunny.jpg": "/yippeejimmee/react-portfolio/static/media/sunny.260fab41b962e6b11fbf.jpg",
+    "static/media/cat1.jpg": "/yippeejimmee/react-portfolio/static/media/cat1.494ab484a8179c1281b2.jpg",
+    "static/media/doggy.jpg": "/yippeejimmee/react-portfolio/static/media/doggy.60600adea3b7e9c4b486.jpg",
+    "static/media/JTran.tech.resume.png": "/yippeejimmee/react-portfolio/static/media/JTran.tech.resume.64648d7c88a852ba3845.png",
+    "static/media/AMATORY-BWABV.TTF": "/yippeejimmee/react-portfolio/static/media/AMATORY-BWABV.88535054b3b091a6aac5.TTF",
+    "static/media/FALLISCOMINGREGULAR-MX9B.TTF": "/yippeejimmee/react-portfolio/static/media/FALLISCOMINGREGULAR-MX9B.e7d0c99ed7b383ee843a.TTF",
+    "static/media/pencil.jpg": "/yippeejimmee/react-portfolio/static/media/pencil.156364d26d2408819708.jpg",
+    "index.html": "/yippeejimmee/react-portfolio/index.html",
+    "main.4cf06246.css.map": "/yippeejimmee/react-portfolio/static/css/main.4cf06246.css.map",
+    "main.e27623a4.js.map": "/yippeejimmee/react-portfolio/static/js/main.e27623a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf06246.css",
+    "static/js/main.e27623a4.js"
+  ]
+}
