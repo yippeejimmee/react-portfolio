@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.db177358.css",
+    "main.js": "/react-portfolio/static/js/main.13884bea.js",
+    "static/media/movie.jpg": "/react-portfolio/static/media/movie.53818e6a4b2706937038.jpg",
+    "static/media/sunny.jpg": "/react-portfolio/static/media/sunny.260fab41b962e6b11fbf.jpg",
+    "static/media/cat1.jpg": "/react-portfolio/static/media/cat1.494ab484a8179c1281b2.jpg",
+    "static/media/doggy.jpg": "/react-portfolio/static/media/doggy.60600adea3b7e9c4b486.jpg",
+    "static/media/JTran.tech.resume.png": "/react-portfolio/static/media/JTran.tech.resume.64648d7c88a852ba3845.png",
+    "static/media/AMATORY-BWABV.TTF": "/react-portfolio/static/media/AMATORY-BWABV.88535054b3b091a6aac5.TTF",
+    "static/media/FALLISCOMINGREGULAR-MX9B.TTF": "/react-portfolio/static/media/FALLISCOMINGREGULAR-MX9B.e7d0c99ed7b383ee843a.TTF",
+    "static/media/pencil.jpg": "/react-portfolio/static/media/pencil.156364d26d2408819708.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.db177358.css.map": "/react-portfolio/static/css/main.db177358.css.map",
+    "main.13884bea.js.map": "/react-portfolio/static/js/main.13884bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db177358.css",
+    "static/js/main.13884bea.js"
+  ]
+}
