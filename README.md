@@ -25,7 +25,7 @@ This project is licensed under None.
 ## Questions
 
 If you have any questions, please direct them towards my email at Jimmyqv.tran@gmail.com.  
-The app can be found <a href="">. You can find more of my work at github.com/yippeejimmee.
+The app can be found <a href="https://yippeejimmee.github.io/react-portfolio/">here</a>. You can find more of my work at github.com/yippeejimmee.
 
 ![alt text](./src/components/img/one.png)
 ![alt text](./src/components/img/two.png)
